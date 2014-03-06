@@ -1,0 +1,9 @@
+#!F:\Users\Andreas\Documents\Dropbox\Projects\Thinkful Python\Unit 3\Flask Mega Tutorial\flask\Scripts\python.exe
+
+from modargs import args
+from lamson import commands
+import sys
+
+args.parse_and_run_command(sys.argv[1:], commands, default_command="help")
+
+
