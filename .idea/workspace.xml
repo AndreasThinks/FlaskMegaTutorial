@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76ede127-f32d-43af-9f25-744c48a01f37" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views.py" afterPath="$PROJECT_DIR$/app/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Flask Mega Tutorial.iws" />
@@ -50,7 +48,7 @@
       <file leaf-file-name="login.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="1" selection-start="140" selection-end="140" vertical-scroll-proportion="0.16943522" vertical-offset="0" max-vertical-offset="663">
+            <state line="21" column="41" selection-start="566" selection-end="566" vertical-scroll-proportion="0.9060914" vertical-offset="0" max-vertical-offset="663">
               <folding>
                 <element signature="n#style#0;n#span#0;n#p#0;n#form#0;n#!!top" expanded="true" />
               </folding>
@@ -454,7 +452,11 @@
       <created>1394482207868</created>
       <updated>1394482207868</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="milestone 2 - login complete">
+      <created>1394484334366</created>
+      <updated>1394484334366</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -479,7 +481,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -490,7 +492,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3180428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3180428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293944" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -719,7 +721,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="140" selection-end="140" vertical-scroll-proportion="0.16943522" vertical-offset="0" max-vertical-offset="663">
+        <state line="21" column="41" selection-start="566" selection-end="566" vertical-scroll-proportion="0.9060914" vertical-offset="0" max-vertical-offset="663">
           <folding>
             <element signature="n#style#0;n#span#0;n#p#0;n#form#0;n#!!top" expanded="true" />
           </folding>
